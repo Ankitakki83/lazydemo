@@ -1,0 +1,9 @@
+.Post{
+    width: 100%;
+    display: flex;
+    background-color: rgb(23, 24, 24);
+    height: auto;
+    color: white;
+    padding: 25px;
+    margin: 50px;
+}
